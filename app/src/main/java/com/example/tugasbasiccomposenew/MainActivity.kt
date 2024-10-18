@@ -83,6 +83,7 @@ fun BasicColumn(modifier : Modifier = Modifier) {
             contentDescription = "",
             modifier = Modifier
                 .size(200.dp)
+
         )
         Spacer(modifier = Modifier.padding(10.dp))
         Text(
