@@ -63,6 +63,7 @@ fun BasicColumn(modifier : Modifier = Modifier) {
             fontSize = 50.sp,
             fontWeight = FontWeight.Bold
 
+
         )
         Text(
             "ini adalah halaman login",
