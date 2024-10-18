@@ -76,6 +76,7 @@ fun BasicColumn(modifier : Modifier = Modifier) {
 
         Spacer(modifier = Modifier.padding(10.dp))
 
+
         Image(
 
             painter = painterResource(id = R.drawable.ftumy),
