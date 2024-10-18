@@ -38,6 +38,7 @@ class MainActivity : ComponentActivity() {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     BasicColumn(modifier =Modifier.padding(innerPadding)
                     )
+
                 }
             }
         }
