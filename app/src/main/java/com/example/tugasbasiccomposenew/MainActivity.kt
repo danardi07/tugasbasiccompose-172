@@ -117,6 +117,7 @@ fun BasicColumn(modifier : Modifier = Modifier) {
 fun GreetingPreview() {
     TugasBasicComposeNewTheme{
         BasicColumn()
+
     }
 
 }
