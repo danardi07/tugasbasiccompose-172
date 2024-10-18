@@ -33,6 +33,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             TugasBasicComposeNewTheme {
+
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     BasicColumn(modifier =Modifier.padding(innerPadding)
                     )
