@@ -54,6 +54,7 @@ fun BasicColumn(modifier : Modifier = Modifier) {
         modifier = modifier
             .fillMaxSize()
             .padding(top = 30.dp)
+
     ) {
         Spacer(modifier = Modifier.padding(50.dp))
 
